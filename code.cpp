@@ -1,3 +1,4 @@
+//condition "ar[I]=ar[ar[I]]". 
 #include"iostream"
 using namespace std;
 int main()
